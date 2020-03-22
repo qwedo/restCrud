@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.example.restCrud.dao;
 
-import com.example.demo.model.Person;
+import com.example.restCrud.model.Person;
 
 import java.util.List;
 import java.util.Optional;

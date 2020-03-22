@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.example.restCrud.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
